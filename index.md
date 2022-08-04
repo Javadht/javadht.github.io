@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome
+In this section, going to share my resume from my latest perspective:
 UNDER PROGRESS...
 
+
+### Summary
+
+Detail-oriented data scientist with over 6 years of demonstrated analytical programming skills; delivered valuable insights by means of: 1)cleaning raw data from source;  preprocessed data engineering tasks such as ETL jobs by Python, R, Sql and SCALA languages, 2)prepared and ran statistical models including Propensity Matching, GBM for retention, k-means for segmentation and so on. To 3)visually and numerically communicate business objectives on a daily-basis, leveraging BI tools (Sql Redshift, Tableau, Google documentations) company wide.
+
+Strong cross team experience(jira, slack) with applying data-driven solutions to experiment design and feature modification in \textbf {live products} both in start-up and in a super popular [digital game](https://bit.ly/3JbfWux) having around 90k DAU!
 \documentclass[letterpaper,11pt]{article}
 \usepackage{tabularx}
 \usepackage{latexsym}

@@ -18,12 +18,15 @@ Strong cross team experience(jira, slack) with applying data-driven solutions to
 - Ad-Hoc Investigations; deep-dive descriptive and prescriptive analysis over problematic features, anomaly detection outputs, VIPs, high level time series analysis for monetization. building propensity matching methods e.g. nearest neighbour or logistic regression to ensure data is valid, informative and accurately comparable to a similar point.
 
 ### Education
-Education
-• University of Waterloo Waterloo, Ontario
+
+• University of Waterloo
+
 Graduate: Master’s in Management Science - Graduate Diploma in Data Analytics Aug 2019 - Aug 2020
 — Courses: NLP, Big Data, Operations Research, Statistics in Data Analytics, Operations Analytics
 — Teacher Assistant in: Probability and Statistics, Financial Mathematics.
-• Shahid Beheshti University Tehran, Iran
+
+• Shahid Beheshti University 
+
 Undergraduate: Bachelor in Electrical Engineering Sep 2010 - Sep 2014
 — Thesis: Optimizing Transformer core mass using genetic algorithm. (MATLAB)
 — Teacher Assistant in: Numerical Methods, Digital Design, Programming(C++, matlab, python)

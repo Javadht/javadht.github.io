@@ -6,6 +6,7 @@ Detail-oriented data scientist with over 6 years of demonstrated analytical prog
 - cleaning raw data from source; preprocessed data engineering tasks such as ETL jobs by Python, R, Sql and SCALA languages, 
 - prepared and ran statistical models including Propensity Matching, GBM for retention, k-means for segmentation and so on. 
 - visually and numerically communicate business objectives on a daily-basis, leveraging BI tools (Sql Redshift, Tableau, Google documentations) company wide.
+
 Strong cross team experience(jira, slack) with applying data-driven solutions to experiment design and feature modification in \textbf {live products} both in start-up and in a super popular [digital game](https://bit.ly/3JbfWux) having around 90k DAU!
 
 ### Experience; Last One
@@ -16,13 +17,20 @@ Strong cross team experience(jira, slack) with applying data-driven solutions to
 - Predictive Modelling; Applied different models like multi-layer LSTM neural network, decision tree or random forest to predict users action with features like arpu, conversion, duration, location, platform and many more.
 - Ad-Hoc Investigations; deep-dive descriptive and prescriptive analysis over problematic features, anomaly detection outputs, VIPs, high level time series analysis for monetization. building propensity matching methods e.g. nearest neighbour or logistic regression to ensure data is valid, informative and accurately comparable to a similar point.
 
-
+### Education
+Education
+• University of Waterloo Waterloo, Ontario
+Graduate: Master’s in Management Science - Graduate Diploma in Data Analytics Aug 2019 - Aug 2020
+— Courses: NLP, Big Data, Operations Research, Statistics in Data Analytics, Operations Analytics
+— Teacher Assistant in: Probability and Statistics, Financial Mathematics.
+• Shahid Beheshti University Tehran, Iran
+Undergraduate: Bachelor in Electrical Engineering Sep 2010 - Sep 2014
+— Thesis: Optimizing Transformer core mass using genetic algorithm. (MATLAB)
+— Teacher Assistant in: Numerical Methods, Digital Design, Programming(C++, matlab, python)
 
 
 --------------------------------------------------------
-You can use the [editor on GitHub](https://github.com/Javadht/javadht.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -46,12 +54,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Javadht/javadht.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

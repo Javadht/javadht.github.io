@@ -1,108 +1,20 @@
 ## Welcome
 In this section, going to share my resume from my latest perspective:
-UNDER PROGRESS...
-
-
 ### Summary
 
 Detail-oriented data scientist with over 6 years of demonstrated analytical programming skills; delivered valuable insights by means of: 
 - cleaning raw data from source; preprocessed data engineering tasks such as ETL jobs by Python, R, Sql and SCALA languages, 
 - prepared and ran statistical models including Propensity Matching, GBM for retention, k-means for segmentation and so on. 
 - visually and numerically communicate business objectives on a daily-basis, leveraging BI tools (Sql Redshift, Tableau, Google documentations) company wide.
-
 Strong cross team experience(jira, slack) with applying data-driven solutions to experiment design and feature modification in \textbf {live products} both in start-up and in a super popular [digital game](https://bit.ly/3JbfWux) having around 90k DAU!
-\documentclass[letterpaper,11pt]{article}
-\usepackage{tabularx}
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
-\usepackage{enumitem}
-\usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[english]{babel}
 
-\pagestyle{fancy}
-\fancyhf{} % clear all header and footer fields
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
+### Experience; Last One
 
-% Adjust margins
-\addtolength{\oddsidemargin}{-0.5in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.5in}
-\addtolength{\textheight}{0.75in}
-
-\urlstyle{same}
-
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
-
-% Sections formatting
-\titleformat{\section}{
-  \vspace{-5pt}\scshape\raggedright\large
-}{}{0em}{}[\color{Red}\titlerule \vspace{-5pt}]
-
-%-------------------------
-% Custom commands
-\newcommand{\resumeItem}[2]{
-  \item\small{
-    \textbf{#1}{: #2 \vspace{-2pt}}
-  }
-}
-
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-1pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \text{\small#3} & \text{\small #4} \\
-    \end{tabular*}\vspace{-5pt}
-}
-
-\newcommand{\resumeSubSubheading}[2]{
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \text{\small#1} & \text{\small #2} \\
-    \end{tabular*}\vspace{-5pt}
-}
-
-\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
-
-\renewcommand{\labelitemii}{$\circ$}
-
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
-%-------------------------------------------
-%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
-\begin{document}
-
-%----------HEADING-----------------
-\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\href{http://DatscIY.com/}{\Large Javad Honarvar}} & Email : \href{mailto:j.honarva@uwaterloo.ca}{javad.honarvar89@gmail.com}\\
-  \href{https://www.linkedin.com/in/javad-honarvar}{https://www.linkedin.com/in/javad-honarvar/} & Mobile : +1-437-972-5251  Location: Tornoto \\
-\end{tabular*}
-\vspace{-7mm}
-
-%--------SUMMARY------------
-\section{ \textbf{Summary}}
-\text\small {Detail-oriented data analyst with over 5 years of demonstrated programming skills, delivered valuable insights by means of: cleaning raw data from source; data engineering part (ETL, Python, R, Sql and SCALA) in order to communicate business objectives on a daily-basis, leveraging BI tools (Sql Redshift, Tableau).
-
-Strong cross team experience(jira, slack) with applying data-driven solutions to experiment design and feature modification in \textbf {live products} both in start-up and in a super popular \href{https://bit.ly/3JbfWux}{\underline{digital game}} having around 90k DAU! }
- 
-  \resumeSubHeadingListEnd
-\vspace{-1mm}
-
-%-----------EXPE
-
+- SQL Querying for Key Product Metric Reports: Advanced Querying user behaviors data from multi-field tables to ensure business objectives are in the same direction as player behaviors.
+- ETL Jobs; including databricks notebooks focused on users raw data; Cleaned and built auto-update key product relations in Amazon Redshift via databricks.  Responsible for transforming  data into AWS considering new loggings, tables and variables for almost 10 to 15 new features per milestone, to ensure that post-release data-driven decisions will be made by healthy data.
+- Statistical Modelling; Including a range of techniques and models applied to game metrics, built hypothesis, evaluated the result and presented easy-to-follow documents for different customers like product managers, stakeholders, ua team, analytical team or quality assurance team.
+- Predictive Modelling; Applied different models like multi-layer LSTM neural network, decision tree or random forest to predict users action with features like arpu, conversion, duration, location, platform and many more.
+- Ad-Hoc Investigations; deep-dive descriptive and prescriptive analysis over problematic features, anomaly detection outputs, VIPs, high level time series analysis for monetization. building propensity matching methods e.g. nearest neighbour or logistic regression to ensure data is valid, informative and accurately comparable to a similar point.
 
 
 
